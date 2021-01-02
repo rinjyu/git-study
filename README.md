@@ -13,3 +13,4 @@
 11. git diff
 12. git remote
 13. git push
+14. git fetch
